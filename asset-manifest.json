@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Beesley-Bros-React-Deployment/static/css/main.3a7fd499.chunk.css",
-    "main.js": "/Beesley-Bros-React-Deployment/static/js/main.ddb2820c.chunk.js",
-    "main.js.map": "/Beesley-Bros-React-Deployment/static/js/main.ddb2820c.chunk.js.map",
+    "main.js": "/Beesley-Bros-React-Deployment/static/js/main.34c1c7ba.chunk.js",
+    "main.js.map": "/Beesley-Bros-React-Deployment/static/js/main.34c1c7ba.chunk.js.map",
     "runtime-main.js": "/Beesley-Bros-React-Deployment/static/js/runtime-main.63a0eb13.js",
     "runtime-main.js.map": "/Beesley-Bros-React-Deployment/static/js/runtime-main.63a0eb13.js.map",
-    "static/js/2.d6c21e21.chunk.js": "/Beesley-Bros-React-Deployment/static/js/2.d6c21e21.chunk.js",
-    "static/js/2.d6c21e21.chunk.js.map": "/Beesley-Bros-React-Deployment/static/js/2.d6c21e21.chunk.js.map",
+    "static/js/2.cc1952a2.chunk.js": "/Beesley-Bros-React-Deployment/static/js/2.cc1952a2.chunk.js",
+    "static/js/2.cc1952a2.chunk.js.map": "/Beesley-Bros-React-Deployment/static/js/2.cc1952a2.chunk.js.map",
     "static/js/3.1e29bc8e.chunk.js": "/Beesley-Bros-React-Deployment/static/js/3.1e29bc8e.chunk.js",
     "static/js/3.1e29bc8e.chunk.js.map": "/Beesley-Bros-React-Deployment/static/js/3.1e29bc8e.chunk.js.map",
     "index.html": "/Beesley-Bros-React-Deployment/index.html",
     "static/css/main.3a7fd499.chunk.css.map": "/Beesley-Bros-React-Deployment/static/css/main.3a7fd499.chunk.css.map",
-    "static/js/2.d6c21e21.chunk.js.LICENSE.txt": "/Beesley-Bros-React-Deployment/static/js/2.d6c21e21.chunk.js.LICENSE.txt",
+    "static/js/2.cc1952a2.chunk.js.LICENSE.txt": "/Beesley-Bros-React-Deployment/static/js/2.cc1952a2.chunk.js.LICENSE.txt",
     "static/media/construction.jpg": "/Beesley-Bros-React-Deployment/static/media/construction.4380c6c5.jpg",
     "static/media/jakeimage1.jpg": "/Beesley-Bros-React-Deployment/static/media/jakeimage1.6167deb4.jpg",
     "static/media/jakeimage10.JPG": "/Beesley-Bros-React-Deployment/static/media/jakeimage10.8a01a7b9.JPG",
@@ -30,8 +30,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.63a0eb13.js",
-    "static/js/2.d6c21e21.chunk.js",
+    "static/js/2.cc1952a2.chunk.js",
     "static/css/main.3a7fd499.chunk.css",
-    "static/js/main.ddb2820c.chunk.js"
+    "static/js/main.34c1c7ba.chunk.js"
   ]
 }
