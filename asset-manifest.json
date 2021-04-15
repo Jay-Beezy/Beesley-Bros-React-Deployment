@@ -1,18 +1,20 @@
 {
   "files": {
-    "main.css": "/Beesley-Bros-React-Deployment/static/css/main.5e7dc793.chunk.css",
-    "main.js": "/Beesley-Bros-React-Deployment/static/js/main.4cd13af5.chunk.js",
-    "main.js.map": "/Beesley-Bros-React-Deployment/static/js/main.4cd13af5.chunk.js.map",
-    "runtime-main.js": "/Beesley-Bros-React-Deployment/static/js/runtime-main.63a0eb13.js",
-    "runtime-main.js.map": "/Beesley-Bros-React-Deployment/static/js/runtime-main.63a0eb13.js.map",
-    "static/js/2.d915c9b9.chunk.js": "/Beesley-Bros-React-Deployment/static/js/2.d915c9b9.chunk.js",
-    "static/js/2.d915c9b9.chunk.js.map": "/Beesley-Bros-React-Deployment/static/js/2.d915c9b9.chunk.js.map",
-    "static/js/3.1e29bc8e.chunk.js": "/Beesley-Bros-React-Deployment/static/js/3.1e29bc8e.chunk.js",
-    "static/js/3.1e29bc8e.chunk.js.map": "/Beesley-Bros-React-Deployment/static/js/3.1e29bc8e.chunk.js.map",
+    "main.css": "/Beesley-Bros-React-Deployment/static/css/main.4f8cae97.chunk.css",
+    "main.js": "/Beesley-Bros-React-Deployment/static/js/main.3141ad40.chunk.js",
+    "main.js.map": "/Beesley-Bros-React-Deployment/static/js/main.3141ad40.chunk.js.map",
+    "runtime-main.js": "/Beesley-Bros-React-Deployment/static/js/runtime-main.c3bc5aa2.js",
+    "runtime-main.js.map": "/Beesley-Bros-React-Deployment/static/js/runtime-main.c3bc5aa2.js.map",
+    "static/js/2.f2145b3c.chunk.js": "/Beesley-Bros-React-Deployment/static/js/2.f2145b3c.chunk.js",
+    "static/js/2.f2145b3c.chunk.js.map": "/Beesley-Bros-React-Deployment/static/js/2.f2145b3c.chunk.js.map",
+    "static/js/3.2a3de08e.chunk.js": "/Beesley-Bros-React-Deployment/static/js/3.2a3de08e.chunk.js",
+    "static/js/3.2a3de08e.chunk.js.map": "/Beesley-Bros-React-Deployment/static/js/3.2a3de08e.chunk.js.map",
     "index.html": "/Beesley-Bros-React-Deployment/index.html",
-    "static/css/main.5e7dc793.chunk.css.map": "/Beesley-Bros-React-Deployment/static/css/main.5e7dc793.chunk.css.map",
-    "static/js/2.d915c9b9.chunk.js.LICENSE.txt": "/Beesley-Bros-React-Deployment/static/js/2.d915c9b9.chunk.js.LICENSE.txt",
+    "static/css/main.4f8cae97.chunk.css.map": "/Beesley-Bros-React-Deployment/static/css/main.4f8cae97.chunk.css.map",
+    "static/js/2.f2145b3c.chunk.js.LICENSE.txt": "/Beesley-Bros-React-Deployment/static/js/2.f2145b3c.chunk.js.LICENSE.txt",
     "static/media/construction.jpg": "/Beesley-Bros-React-Deployment/static/media/construction.4380c6c5.jpg",
+    "static/media/homepage1.JPG": "/Beesley-Bros-React-Deployment/static/media/homepage1.4b54d71e.JPG",
+    "static/media/homepage2.JPG": "/Beesley-Bros-React-Deployment/static/media/homepage2.047869d3.JPG",
     "static/media/jakeimage1.jpg": "/Beesley-Bros-React-Deployment/static/media/jakeimage1.6167deb4.jpg",
     "static/media/jakeimage10.JPG": "/Beesley-Bros-React-Deployment/static/media/jakeimage10.8a01a7b9.JPG",
     "static/media/jakeimage11.JPG": "/Beesley-Bros-React-Deployment/static/media/jakeimage11.fc987161.JPG",
@@ -29,9 +31,9 @@
     "static/media/startingimage1.JPG": "/Beesley-Bros-React-Deployment/static/media/startingimage1.69e95d09.JPG"
   },
   "entrypoints": [
-    "static/js/runtime-main.63a0eb13.js",
-    "static/js/2.d915c9b9.chunk.js",
-    "static/css/main.5e7dc793.chunk.css",
-    "static/js/main.4cd13af5.chunk.js"
+    "static/js/runtime-main.c3bc5aa2.js",
+    "static/js/2.f2145b3c.chunk.js",
+    "static/css/main.4f8cae97.chunk.css",
+    "static/js/main.3141ad40.chunk.js"
   ]
 }
